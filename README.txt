@@ -4,7 +4,7 @@ COEN 281 Programming Assignment 1
 Submitted by,
 
 Shruti Jagadeesh Bhat
-W1587845
+CSE Grad Student, Santa Clara University'21
 ----------------------------
 Assumptions:
 - If a file is empty, it is skipped from the computations.
